@@ -11,6 +11,7 @@
 body {
   background-color: #f3f4ed;
   margin: auto;
+  background-image: url("http://norabeachresort.com/images/slide-intro-06.jpg");  
 }
 
 h1 {
@@ -569,7 +570,5 @@ h4 {
           height: 390px;
         }
       }
-      .schoolpic{
-        width:300px;
-        height:300px;
-      }
+      
+      
